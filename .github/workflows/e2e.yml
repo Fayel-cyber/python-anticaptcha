@@ -26,5 +26,5 @@ jobs:
     - name: Run integration tests
       run: make test
       env:
-        KEY: ${{ secrets.anticaptcha_key }}
-        PROXY_URL: "${{ secrets.proxy_url }}"
+        KEY: 9c03e8d2684bbe55d7b4d0261a92f4bd
+        PROXY_URL: https://losangeles.craigslist.org/lac/kid/d/housekeeper-sitting-pet-care/6720136191.html
